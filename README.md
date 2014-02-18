@@ -5,6 +5,6 @@
 Michael Eller
 
 ## Objectives & Content
-* GitHub Web Flow
-* GitHub Corporation
+* Web Flow
+* Corporation
 * Git on Command Line

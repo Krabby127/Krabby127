@@ -1,4 +1,10 @@
-Krabby127
-=========
+# Student Web Site
 
-Github Student demo
+## Authorship
+
+Michael Eller
+
+## Objectives & Content
+* GitHub Web Flow
+* GitHub Corporation
+* Git on Command Line
